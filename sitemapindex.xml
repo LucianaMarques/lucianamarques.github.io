@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/categories/blog.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/categories/blog.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/categories/cat_nikola.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/categories/cat_nikola.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/categories/demo.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/categories/demo.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/categories/nikola.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/categories/nikola.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/categories/python.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/categories/python.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/galleries/demo/rss.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/galleries/demo/rss.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/galleries/rss.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/galleries/rss.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/rss.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/rss.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://lucianamarques.github.io/lublog/sitemap.xml</loc>
-  <lastmod>2019-02-23T23:17:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/sitemap.xml</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>
