@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1550964029.7238374
+_modified_time = 1550964076.8849978
 _enable_loop = True
 _template_filename = '/home/luciana/anaconda3/lib/python3.7/site-packages/nikola/data/themes/base/templates/archive_navigation_helper.tmpl'
 _template_uri = 'archive_navigation_helper.tmpl'
@@ -28,12 +28,12 @@ def render_body(context,**pageargs):
 def render_archive_navigation(context):
     __M_caller = context.caller_stack._push_frame()
     try:
+        next_archive = context.get('next_archive', UNDEFINED)
         pagekind = context.get('pagekind', UNDEFINED)
         messages = context.get('messages', UNDEFINED)
         previous_archive = context.get('previous_archive', UNDEFINED)
-        up_archive = context.get('up_archive', UNDEFINED)
-        next_archive = context.get('next_archive', UNDEFINED)
         has_archive_navigation = context.get('has_archive_navigation', UNDEFINED)
+        up_archive = context.get('up_archive', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if 'archive_page' in pagekind:
