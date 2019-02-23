@@ -1,4 +1,4 @@
-Sitemap: http://lucianamarques.github.io/sitemapindex.xml
+Sitemap: http://lucianamarques.github.io/lublog/sitemapindex.xml
 
 User-Agent: *
 Host: lucianamarques.github.io
