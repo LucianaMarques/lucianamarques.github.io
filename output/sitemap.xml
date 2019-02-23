@@ -6,119 +6,119 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://lucianamarques.github.io/lublog/</loc>
+  <loc>http://lucianamarques.github.io/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/2012/</loc>
+  <loc>http://lucianamarques.github.io/2012/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/archive.html</loc>
-  <lastmod>2019-02-23T23:19:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/archive.html</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/categories/</loc>
+  <loc>http://lucianamarques.github.io/categories/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/categories/blog/</loc>
+  <loc>http://lucianamarques.github.io/categories/blog/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/categories/cat_nikola/</loc>
+  <loc>http://lucianamarques.github.io/categories/cat_nikola/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/categories/demo/</loc>
+  <loc>http://lucianamarques.github.io/categories/demo/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/categories/nikola/</loc>
+  <loc>http://lucianamarques.github.io/categories/nikola/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/categories/python/</loc>
+  <loc>http://lucianamarques.github.io/categories/python/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/galleries/</loc>
+  <loc>http://lucianamarques.github.io/galleries/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/galleries/demo/</loc>
+  <loc>http://lucianamarques.github.io/galleries/demo/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/listings/</loc>
+  <loc>http://lucianamarques.github.io/listings/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/listings/__pycache__/</loc>
+  <loc>http://lucianamarques.github.io/listings/__pycache__/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/listings/hello.py.html</loc>
-  <lastmod>2019-02-23T23:19:00Z</lastmod>
+  <loc>http://lucianamarques.github.io/listings/hello.py.html</loc>
+  <lastmod>2019-02-23T23:20:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/about-nikola/</loc>
+  <loc>http://lucianamarques.github.io/pages/about-nikola/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/bootstrap-demo/</loc>
+  <loc>http://lucianamarques.github.io/pages/bootstrap-demo/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/charts/</loc>
+  <loc>http://lucianamarques.github.io/pages/charts/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/creating-a-theme/</loc>
+  <loc>http://lucianamarques.github.io/pages/creating-a-theme/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/dr-nikolas-vendetta/</loc>
+  <loc>http://lucianamarques.github.io/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/extending/</loc>
+  <loc>http://lucianamarques.github.io/pages/extending/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/handbook/</loc>
+  <loc>http://lucianamarques.github.io/pages/handbook/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/internals/</loc>
+  <loc>http://lucianamarques.github.io/pages/internals/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/listings-demo/</loc>
+  <loc>http://lucianamarques.github.io/pages/listings-demo/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/path-handlers/</loc>
+  <loc>http://lucianamarques.github.io/pages/path-handlers/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/quickref/</loc>
+  <loc>http://lucianamarques.github.io/pages/quickref/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/quickstart/</loc>
+  <loc>http://lucianamarques.github.io/pages/quickstart/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/social_buttons/</loc>
+  <loc>http://lucianamarques.github.io/pages/social_buttons/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/pages/theming/</loc>
+  <loc>http://lucianamarques.github.io/pages/theming/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
  <url>
-  <loc>http://lucianamarques.github.io/lublog/posts/welcome-to-nikola/</loc>
+  <loc>http://lucianamarques.github.io/posts/welcome-to-nikola/</loc>
   <lastmod>2019-02-23T22:58:00Z</lastmod>
  </url>
 </urlset>
