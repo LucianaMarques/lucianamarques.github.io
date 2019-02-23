@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1550963873.6343799
+_modified_time = 1550963971.2773414
 _enable_loop = True
 _template_filename = '/home/luciana/anaconda3/lib/python3.7/site-packages/nikola/data/themes/bootstrap4/templates/pagination_helper.tmpl'
 _template_uri = 'pagination_helper.tmpl'
@@ -27,10 +27,10 @@ def render_body(context,**pageargs):
 def render_page_navigation(context,current_page,page_links,prevlink,nextlink,prev_next_links_reversed,surrounding=5):
     __M_caller = context.caller_stack._push_frame()
     try:
-        messages = context.get('messages', UNDEFINED)
-        enumerate = context.get('enumerate', UNDEFINED)
         abs = context.get('abs', UNDEFINED)
+        enumerate = context.get('enumerate', UNDEFINED)
         len = context.get('len', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n<nav aria-label="Page navigation">\n  <ul class="pagination">\n')
         if prev_next_links_reversed:
